@@ -151,7 +151,7 @@ RELATED &mdash; meaning that the packet is starting a new connection, but is ass
 
 That means that if some Docker container can start a new connection and `iptables` should allow responses to arrive back into the container, that is previously initiated and accepted exchanges bypass rule checking not only for `INPUT`, but also for `DOCKER-USER` chain.
 
-To summirize, we have shown that [Arch Network Isolator](https://github.com/Alliedium/arch-network-isolator) combines rich functionality and safety (in terms of both networking and being causious when making changes to system configurations) while remaining very easy to use.
+To summarize, we have shown that [Arch Network Isolator](https://github.com/Alliedium/arch-network-isolator) combines rich functionality and safety (in terms of both networking and being cautious when making changes to system configurations) while remaining very easy to use.
 
 ### Links
 
