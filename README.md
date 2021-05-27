@@ -165,4 +165,3 @@ To summarize, we have shown that [Arch Network Isolator](https://github.com/Alli
 * [Geerling Jeff, Be careful, Docker might be exposing ports to the world](https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world)
 * [iptables docs](https://linux.die.net/man/8/iptables)
 * [Alliedium AIssistant Cloud app](https://marketplace.atlassian.com/apps/1221352/alliedium-aissistant)
-* [Apache Ignite Migration Tool](https://github.com/Alliedium/ignite-migration-tool)
