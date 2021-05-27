@@ -159,7 +159,7 @@ To summarize, we have shown that [Arch Network Isolator](https://github.com/Alli
 * [Bhuiyan Shamim, A Simple Checklist for Apache Ignite Beginners](https://dzone.com/articles/a-simple-checklist-for-apache-ignite-beginners)
 * [Arch Network Isolator Tool](https://github.com/Alliedium/arch-network-isolator)
 * Fast Firewall Setup [repo](https://github.com/ChrisTitusTech/firewallsetup) and [video](https://www.youtube.com/watch?v=qPEA6J9pjG8)
-* [iptables in Arch Linux]((https://wiki.archlinux.org/index.php/iptables))
+* [iptables in Arch Linux](https://wiki.archlinux.org/index.php/iptables)
 * [sysctl in Arch Linux](https://wiki.archlinux.org/index.php/sysctl)
 * [Docker and iptables](https://docs.docker.com/network/iptables/)
 * [Geerling Jeff, Be careful, Docker might be exposing ports to the world](https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world)
