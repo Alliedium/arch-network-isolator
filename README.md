@@ -1,7 +1,7 @@
 # Arch Network Isolator
 The microservice paradigm continues to gain popularity among developers of scalable and fault-tolerant systems. 
 
-While usually being deployed in the cloud, the building blocks of such systems needs to be deployed, developed and debugged locally on developer's workstations. The heavy use of containers and container orchestration frameworks such as Kubernetes, OpenShift to name a few drives the need to approximate the properties of cloud infrastructure when making the local deployments on software developers workstations. 
+While usually being deployed in the cloud, the building blocks of such systems need to be deployed, developed and debugged locally on developer's workstations. The heavy use of containers and container orchestration frameworks such as Kubernetes, OpenShift to name a few drives the need to approximate the properties of cloud infrastructure when making the local deployments on software developers workstations. 
 
 Such an approach requires solving the whole set of problems: having to use the reduced datasets, scaled down configurations, simplified network topologies, having to replace certain building blocks that are parts of the cloud provider infrastructure (such as load balancers e.g.) with open source alternatives (Nginx + HAProxy e.g.) to name a few.
 
@@ -153,7 +153,7 @@ That means that if some Docker container can start a new connection and `iptable
 
 Thus our [Arch Network Isolator](https://github.com/Alliedium/arch-network-isolator) is an easy and safe tool useful for the teams developing distributed applications.
 
-At the end we would like to announce another open-source project developed by our team, namely, [Apache Ignite Migration Tool](https://github.com/Alliedium/ignite-migration-tool). This is an open-source Java library for applying [Apache Ignite](https://ignite.apache.org/) database schema changes.
+At the end we would like to announce another open-source project developed by our team, namely, [Apache Ignite Migration Tool](https://github.com/Alliedium/ignite-migration-tool). This is an open-source tool for applying [Apache Ignite](https://ignite.apache.org/) database schema changes.
 
 ### Links
 
