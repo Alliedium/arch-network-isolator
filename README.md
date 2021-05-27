@@ -151,9 +151,7 @@ RELATED &mdash; meaning that the packet is starting a new connection, but is ass
 
 That means that if some Docker container can start a new connection and `iptables` should allow responses to arrive back into the container, that is previously initiated and accepted exchanges bypass rule checking not only for `INPUT`, but also for `DOCKER-USER` chain.
 
-Thus our [Arch Network Isolator](https://github.com/Alliedium/arch-network-isolator) is an easy and safe tool useful for the teams developing distributed applications.
-
-At the end we would like to announce another open-source project developed by our team, namely, [Apache Ignite Migration Tool](https://github.com/Alliedium/ignite-migration-tool) for applying [Apache Ignite](https://ignite.apache.org/) database schema changes.
+To summirize, we have shown that [Arch Network Isolator](https://github.com/Alliedium/arch-network-isolator) combines rich functionality and safety (in terms of both networking and being causious when making changes to system configurations) while remaining very easy to use.
 
 ### Links
 
